@@ -23,7 +23,7 @@ if platform.system() == "Windows":
 # --- 应用程序文本库 ---
 LANGUAGES = {
     'en': {
-        'title': "Minimap Assistant v17.1",
+        'title': "Minimap Assistant v1.0",
         'lang_select_frame': "Language", 'map_settings_frame': "Minimap Position",
         'resolution_preset_label': "Preset:", 'custom_option': "Custom",
         'left_label': "Left (L):", 'top_label': "Top (T):", 'width_label': "Width (W):",
@@ -42,7 +42,7 @@ LANGUAGES = {
         'status_detector_stopped': "Detection thread stopped.", 'status_exit': "Program exited."
     },
     'zh': {
-        'title': "小地图助手 v17.1",
+        'title': "小地图助手 v1.0",
         'lang_select_frame': "语言", 'map_settings_frame': "小地图位置设置",
         'resolution_preset_label': "分辨率预设:", 'custom_option': "自定义",
         'left_label': "左边距 (L):", 'top_label': "上边距 (T):", 'width_label': "宽度 (W):",
